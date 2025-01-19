@@ -11,7 +11,7 @@ This is because I analysing and utilising my problem-solving skills to address p
 # Skills
 ## Programming Languages:
 <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" />
-## Networking
+## Networking:
 <a href="https://www.cisco.com" target="_blank"> <img src="https://img.shields.io/badge/Cisco-informational" alt="Cisco" /> </a> <a href="https://en.wikipedia.org/wiki/TCP/IP_model" target="_blank"> <img src="https://img.shields.io/badge/TCP/IP-informational" alt="TCP/IP" /> </a> <a href="https://www.wireshark.org/" target="_blank"> <img src="https://img.shields.io/badge/Wireshark-informational" alt="Wireshark" /> </a> <a href="https://nmap.org" target="_blank"> <img src="https://img.shields.io/badge/Nmap-informational" alt="Nmap" /> </a> <a href="https://www.openvpn.net" target="_blank"> <img src="https://img.shields.io/badge/OpenVPN-informational" alt="OpenVPN" /> </a> 
 
 
