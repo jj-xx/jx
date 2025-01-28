@@ -73,8 +73,28 @@ This is because I analysing and utilising my problem-solving skills to address p
 <a href="https://www.paloaltonetworks.com" target="_blank">  
   <img src="https://img.shields.io/badge/Palo_Alto-00A2E8?logo=paloalto&logoColor=white" alt="Palo Alto" />  
 </a>  
-# Soft Skills
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Problem Solving-informational" alt="Problem Solving" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Teamwork-informational" alt="Teamwork" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Attention to Detail-informational" alt="Attention to Detail" /> </a> 
+
+
+# 🌟 Soft Skills  
+
+<a href="#" target="_blank">  
+  <img src="https://img.shields.io/badge/Problem_Solving-0066CC?logo=lightbulb&logoColor=white" alt="Problem Solving" />  
+</a>  
+<a href="#" target="_blank">  
+  <img src="https://img.shields.io/badge/Teamwork-4CAF50?logo=people-arrows&logoColor=white" alt="Teamwork" />  
+</a>  
+<a href="#" target="_blank">  
+  <img src="https://img.shields.io/badge/Attention_to_Detail-FFC107?logo=magnifying-glass&logoColor=black" alt="Attention to Detail" />  
+</a>  
+<a href="#" target="_blank">  
+  <img src="https://img.shields.io/badge/Communication-FF6F61?logo=chat-dots&logoColor=white" alt="Communication" />  
+</a>  
+<a href="#" target="_blank">  
+  <img src="https://img.shields.io/badge/Time_Management-00B388?logo=clock&logoColor=white" alt="Time Management" />  
+</a>  
+<a href="#" target="_blank">  
+  <img src="https://img.shields.io/badge/Adaptability-FF6C37?logo=arrows-rotate&logoColor=white" alt="Adaptability" />  
+</a>  
 
 # Other Platforms
 <a href="https://github.com/yourusername" target="_blank">
