@@ -1,12 +1,9 @@
 
 # About Me
 Hello
+I am currently pursuing a degree in Cybersecurity and Digital Forensics, where I am developing expertise in identifying, analyzing, and mitigating cyber threats. My primary interests lie in Security Operations Center (SOC) roles and Incident Response, where I can contribute to detecting and responding to security incidents in real time.
 
-I am currently a Cybersecurity and Digital Forensics student.
-i am mainly interested in SOC and Incident Response Work
-
-My Current goal is to become a Secuirty Analyst.
-This is because I analysing and utilising my problem-solving skills to address problems and threats.
+My goal is to become a Security Analyst, as I thrive on analyzing complex problems, utilizing my technical and critical thinking skills, and working in dynamic environments to address cybersecurity challenges. I am particularly drawn to roles that involve monitoring systems, investigating alerts, and ensuring the security and resilience of organizational networks
 
 
 # Tools
@@ -75,7 +72,7 @@ This is because I analysing and utilising my problem-solving skills to address p
 </a>  
 
 
-# 🌟 Soft Skills  
+# Soft Skills  
 
 <a href="#" target="_blank">  
   <img src="https://img.shields.io/badge/Problem_Solving-0066CC?logo=lightbulb&logoColor=white" alt="Problem Solving" />  
