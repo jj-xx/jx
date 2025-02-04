@@ -2,15 +2,18 @@
 
 ## 1. **Memory Forensics with Volatility**
 **Description:** Analyse memory dumps to detect malware, data exfiltration, and suspicious processes.
+
 **Objectives:** Learn Volatility, detect anomalies, and create reports.
+
 **Steps:** Collect memory dumps, use Volatility plugins, and analyze findings.
+
 **Proof of Completion:** 
 
 ## 2. **Network Scanning & Intrusion Detection**
-**Description:** Use Nmap and Zeek to scan networks and detect unauthorized access.
-**Objectives:** Master Nmap scripting, detect network anomalies, and trigger alerts in Wazuh.
-**Steps:** Run Nmap scans, configure Zeek, and analyze logs.
-**Proof of Completion:** 
+**Description:** Use Nmap to scan networks and detect with Snort.
+**Objectives:** Master Nmap scripting, detect network anomalies in logs.
+**Steps:** Run Nmap scans, configure Snort, and analyze logs.
+**Proof of Completion:** ![Alt text](images/sp2.png)
 
 ## 3. **Brute Force Detection with Wazuh**
 **Description:** Set up Wazuh to monitor brute-force attacks on DVWA.
