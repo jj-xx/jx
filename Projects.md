@@ -16,7 +16,7 @@
 
 **Steps:** Run Nmap scans, configure Snort, and analyse Snort logs.
 
-**[Proof Of Completion](image/evidence.jpg)**
+
 
 ## 3. **Wazuh Set-up and Brute Force Detection**
 
@@ -28,15 +28,16 @@
 
 **[Proof Of Completion](image/evidence.jpg)**
 
+
 ## 4. **Firewall Rules & Security Hardening**
 
-**Description:** Learn and test firewall rules to protect against common attack
-s.
+**Description:** Learn and test firewall rules to protect against common attacks.
+
 **Objectives:** Learn of firewall best practices and block malicious activities.
 
 **Steps:** Set up iptables and rules, execute attacks and record results.
 
-**[Proof Of Completion](image/evidence.jpg)**
+
 
 ## 5. **Python projects**
 
@@ -46,7 +47,7 @@ s.
 
 **Steps:** Write scripts for scanning, encryption, and log parsing.
 
-**[Proof Of Completion](image/evidence.jpg)**
+
 
 ## 6. **Metasploit Framework**
 
@@ -56,7 +57,9 @@ s.
 
 **Steps:** Use Metasploit to pentest a lab machine.
 
+
 **[Proof Of Completion](image/evidence.jpg)**
+
 
 ## 7. **Web Application Security Testing**
 
@@ -66,4 +69,4 @@ s.
 
 **Steps:** Use OWASP ZAP and Nessus to scan and analyze web security weaknesses.
 
-**[Proof Of Completion](image/evidence.jpg)**
+
