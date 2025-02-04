@@ -93,6 +93,10 @@ My goal is to become a Security Analyst, as I thrive on analyzing complex proble
   <img src="https://img.shields.io/badge/Adaptability-FF6C37?logo=arrows-rotate&logoColor=white" alt="Adaptability" />  
 </a>  
 
+# Projects
+[List all Projects](https://github.com/jj-xx/jx/blob/main/Projects)
+
+
 # Other Platforms
 <a href="https://github.com/yourusername" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-informational" alt="Linkedin" />
