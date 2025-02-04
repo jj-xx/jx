@@ -5,7 +5,7 @@
 
 **Objectives:** Run Volatility Plugins and detect IOCs.
 
-**Steps:** Collect memory dumps, use Volatility plugins, and analyze findings.
+**Steps:** Collect memory dumps, use Volatility plugins, and analyse findings.
 
 **[Proof Of Completion](image/sp2.png)**
 
@@ -14,7 +14,7 @@
 
 **Objectives:** Master Nmap scanning, detect network anomalies in logs.
 
-**Steps:** Run Nmap scans, configure Snort, and analyze Snort logs.
+**Steps:** Run Nmap scans, configure Snort, and analyse Snort logs.
 
 **[Proof Of Completion](image/sp2.png)**
 
@@ -24,7 +24,7 @@
 
 **Objectives:** Learn Wazuh, configure log ingestion and monitoring, create custom rules for apache and trigger alerts.
 
-**Steps:** Set up Wazuh, execute brute-force attacks and analyze Wazuh logs.
+**Steps:** Set up Wazuh, execute brute-force attacks and analyse Wazuh logs.
 
 **[Proof Of Completion](image/sp2.png)**
 
