@@ -94,7 +94,7 @@ My goal is to become a Security Analyst, as I thrive on analyzing complex proble
 </a>  
 
 # Projects
-[List all Projects](https://github.com/jj-xx/jx/blob/main/Projects)
+[List all Projects](https://github.com/jj-xx/jx/blob/main/Projects.md)
 
 
 # Other Platforms
