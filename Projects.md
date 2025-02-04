@@ -13,7 +13,7 @@
 **Description:** Use Nmap to scan networks and detect with Snort.
 **Objectives:** Master Nmap scripting, detect network anomalies in logs.
 **Steps:** Run Nmap scans, configure Snort, and analyze logs.
-**Proof of Completion:** ![Alt text](images/sp2.png)
+**Proof of Completion:** (images/sp2.png)
 
 ## 3. **Brute Force Detection with Wazuh**
 **Description:** Set up Wazuh to monitor brute-force attacks on DVWA.
