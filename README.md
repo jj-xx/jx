@@ -78,13 +78,7 @@ My goal is to become a Security Analyst, as I thrive on analyzing complex proble
   <img src="https://img.shields.io/badge/Problem_Solving-0066CC?logo=lightbulb&logoColor=white" alt="Problem Solving" />  
 </a>  
 <a href="#" target="_blank">  
-  <img src="https://img.shields.io/badge/Teamwork-4CAF50?logo=people-arrows&logoColor=white" alt="Teamwork" />  
-</a>  
-<a href="#" target="_blank">  
   <img src="https://img.shields.io/badge/Attention_to_Detail-FFC107?logo=magnifying-glass&logoColor=black" alt="Attention to Detail" />  
-</a>  
-<a href="#" target="_blank">  
-  <img src="https://img.shields.io/badge/Communication-FF6F61?logo=chat-dots&logoColor=white" alt="Communication" />  
 </a>  
 <a href="#" target="_blank">  
   <img src="https://img.shields.io/badge/Time_Management-00B388?logo=clock&logoColor=white" alt="Time Management" />  
