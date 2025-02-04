@@ -92,7 +92,7 @@ My goal is to become a Security Analyst, as I thrive on analyzing complex proble
 
 
 # Other Platforms
-[LinkedIn](https://www.linkedin.com/in/jeeee)
+[LinkedIn](https://www.linkedin.com/in/jun-xian-14861528a)
 
 
 
