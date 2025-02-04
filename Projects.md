@@ -15,36 +15,55 @@
 **Objectives:** Master Nmap scanning, detect network anomalies in logs.
 
 **Steps:** Run Nmap scans, configure Snort, and analyze Snort logs.
+
 **[Proof Of Completion](images/sp2.png)**
 
 ## 3. **Wazuh Set-up and Brute Force Detection**
+
 **Description:** Set up Wazuh to monitor brute-force attacks on DVWA.
+
 **Objectives:** Learn Wazuh, configure log ingestion and monitoring, create custom rules for apache and trigger alerts.
+
 **Steps:** Set up Wazuh, execute brute-force attacks and analyze Wazuh logs.
+
 **[Proof Of Completion](images/sp2.png)**
 
 ## 4. **Firewall Rules & Security Hardening**
-**Description:** Learn and test firewall rules to protect against common attacks.
+
+**Description:** Learn and test firewall rules to protect against common attack
+s.
 **Objectives:** Learn of firewall best practices and block malicious activities.
+
 **Steps:** Set up iptables and rules, execute attacks and record results.
+
 **[Proof Of Completion](images/sp2.png)**
 
 ## 5. **Python projects**
+
 **Description:** Develop security scripts for automation, reconnaissance, and monitoring.
+
 **Objectives:** Use Python for log analysis, malware detection, and security automation.
+
 **Steps:** Write scripts for scanning, encryption, and log parsing.
+
 **[Proof Of Completion](images/sp2.png)**
 
 ## 6. **Metasploit Framework**
+
 **Description:** Build a lab to test Metasploit framework.
+
 **Objectives:** Learn Metasploit features.
+
 **Steps:** Use Metasploit to pentest a lab machine.
+
 **[Proof Of Completion](images/sp2.png)**
 
 ## 7. **Web Application Security Testing**
-**Description:** Perform vulnerability scanning on web applications.
-**Objectives:** Use popular tools to find common web vulnerabilities like SQL injection and XSS vulnerabilities.
-**Steps:** Use OWASP ZAP and Nessus to scan and analyze web security weaknesses.
-**[Proof Of Completion](images/sp2.png)**
 
----
+**Description:** Perform vulnerability scanning on web applications.
+
+**Objectives:** Use popular tools to find common web vulnerabilities like SQL injection and XSS vulnerabilities.
+
+**Steps:** Use OWASP ZAP and Nessus to scan and analyze web security weaknesses.
+
+**[Proof Of Completion](images/sp2.png)**
