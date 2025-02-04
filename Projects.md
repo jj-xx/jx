@@ -7,7 +7,7 @@
 
 **Steps:** Collect memory dumps, use Volatility plugins, and analyse findings.
 
-**[Proof Of Completion](image/evidence.png)**
+**[Proof Of Completion](image/evidence.jpg)**
 
 ## 2. **Network Scanning & Intrusion Detection**
 **Description:** Use Nmap to scan networks and detect with Snort.
@@ -16,7 +16,7 @@
 
 **Steps:** Run Nmap scans, configure Snort, and analyse Snort logs.
 
-**[Proof Of Completion](image/evidence.png)**
+**[Proof Of Completion](image/evidence.jpg)**
 
 ## 3. **Wazuh Set-up and Brute Force Detection**
 
@@ -26,7 +26,7 @@
 
 **Steps:** Set up Wazuh, execute brute-force attacks and analyse Wazuh logs.
 
-**[Proof Of Completion](image/evidence.png)**
+**[Proof Of Completion](image/evidence.jpg)**
 
 ## 4. **Firewall Rules & Security Hardening**
 
@@ -36,7 +36,7 @@ s.
 
 **Steps:** Set up iptables and rules, execute attacks and record results.
 
-**[Proof Of Completion](image/evidence.png)**
+**[Proof Of Completion](image/evidence.jpg)**
 
 ## 5. **Python projects**
 
@@ -46,7 +46,7 @@ s.
 
 **Steps:** Write scripts for scanning, encryption, and log parsing.
 
-**[Proof Of Completion](image/evidence.png)**
+**[Proof Of Completion](image/evidence.jpg)**
 
 ## 6. **Metasploit Framework**
 
@@ -56,7 +56,7 @@ s.
 
 **Steps:** Use Metasploit to pentest a lab machine.
 
-**[Proof Of Completion](image/evidence.png)**
+**[Proof Of Completion](image/evidence.jpg)**
 
 ## 7. **Web Application Security Testing**
 
@@ -66,4 +66,4 @@ s.
 
 **Steps:** Use OWASP ZAP and Nessus to scan and analyze web security weaknesses.
 
-**[Proof Of Completion](image/sp2.png)**
+**[Proof Of Completion](image/evidence.jpg)**
