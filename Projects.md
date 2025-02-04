@@ -1,60 +1,50 @@
 # Projects
 
 ## 1. **Memory Forensics with Volatility**
-**Description:** Analyse memory dumps to detect malware, data exfiltration, and suspicious processes.
+**Description:** Analyse memory dumps of data exfiltration attack and analyse for suspicious processes.
 
-**Objectives:** Learn Volatility, detect anomalies, and create reports.
+**Objectives:** Run Volatility Plugins and detect IOCs.
 
 **Steps:** Collect memory dumps, use Volatility plugins, and analyze findings.
 
-**Proof of Completion:** 
+**[Proof Of Completion](images/sp2.png)**
 
 ## 2. **Network Scanning & Intrusion Detection**
 **Description:** Use Nmap to scan networks and detect with Snort.
-**Objectives:** Master Nmap scripting, detect network anomalies in logs.
-**Steps:** Run Nmap scans, configure Snort, and analyze logs.
-**Proof of Completion:** (images/sp2.png)
 
-## 3. **Brute Force Detection with Wazuh**
+**Objectives:** Master Nmap scanning, detect network anomalies in logs.
+
+**Steps:** Run Nmap scans, configure Snort, and analyze Snort logs.
+**[Proof Of Completion](images/sp2.png)**
+
+## 3. **Wazuh Set-up and Brute Force Detection**
 **Description:** Set up Wazuh to monitor brute-force attacks on DVWA.
-**Objectives:** Configure log monitoring, create custom rules, and trigger alerts.
-**Steps:** Enable logging, attempt brute-force attacks, and analyze Wazuh logs.
-**Proof of Completion:** 
+**Objectives:** Learn Wazuh, configure log ingestion and monitoring, create custom rules for apache and trigger alerts.
+**Steps:** Set up Wazuh, execute brute-force attacks and analyze Wazuh logs.
+**[Proof Of Completion](images/sp2.png)**
 
 ## 4. **Firewall Rules & Security Hardening**
-**Description:** Configure and test firewall rules to protect against attacks.
-**Objectives:** Implement firewall best practices, block malicious traffic.
-**Steps:** Set up firewalls (iptables/PFsense), define rules, and test effectiveness.
-**Proof of Completion:**
+**Description:** Learn and test firewall rules to protect against common attacks.
+**Objectives:** Learn of firewall best practices and block malicious activities.
+**Steps:** Set up iptables and rules, execute attacks and record results.
+**[Proof Of Completion](images/sp2.png)**
 
-## 5. **Python for Cybersecurity**
+## 5. **Python projects**
 **Description:** Develop security scripts for automation, reconnaissance, and monitoring.
 **Objectives:** Use Python for log analysis, malware detection, and security automation.
 **Steps:** Write scripts for scanning, encryption, and log parsing.
-**Proof of Completion:** Upload Python scripts with sample outputs.
+**[Proof Of Completion](images/sp2.png)**
 
-## 6. **Cryptography & Secure Communication**
-**Description:** Implement cryptographic algorithms for secure data exchange.
-**Objectives:** Learn hashing, symmetric/asymmetric encryption, and digital signatures.
-**Steps:** Use Python libraries like PyCryptodome to encrypt/decrypt messages.
-**Proof of Completion:** 
+## 6. **Metasploit Framework**
+**Description:** Build a lab to test Metasploit framework.
+**Objectives:** Learn Metasploit features.
+**Steps:** Use Metasploit to pentest a lab machine.
+**[Proof Of Completion](images/sp2.png)**
 
-## 7. **Penetration Testing Framework**
-**Description:** Build a mini penetration testing toolkit.
-**Objectives:** Automate reconnaissance, vulnerability scanning, and exploitation.
-**Steps:** Use Metasploit, Nmap, and custom Python scripts for testing.
-**Proof of Completion:** 
-
-## 8. **SIEM Log Analysis**
-**Description:** Set up a Security Information and Event Management (SIEM) system to analyze security logs.
-**Objectives:** Ingest logs, create detection rules, and visualize threats.
-**Steps:** Configure Wazuh or Splunk, collect logs, and generate security alerts.
-**Proof of Completion:** 
-
-## 9. **Web Application Security Testing**
+## 7. **Web Application Security Testing**
 **Description:** Perform vulnerability scanning on web applications.
-**Objectives:** Detect and exploit common web vulnerabilities like SQLi, XSS, and CSRF.
-**Steps:** Use OWASP ZAP and Burp Suite to scan and analyze web security weaknesses.
-**Proof of Completion:** 
+**Objectives:** Use popular tools to find common web vulnerabilities like SQL injection and XSS vulnerabilities.
+**Steps:** Use OWASP ZAP and Nessus to scan and analyze web security weaknesses.
+**[Proof Of Completion](images/sp2.png)**
 
 ---
