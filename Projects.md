@@ -7,7 +7,7 @@
 
 **Steps:** Collect memory dumps, use Volatility plugins, and analyse findings.
 
-**[Proof Of Completion](image/evidence.jpg)**
+**[Proof Of Completion](image/p1.png)**
 
 ## 2. **Network Scanning & Intrusion Detection**
 **Description:** Use Nmap to scan networks and detect with Snort.
@@ -58,7 +58,7 @@
 **Steps:** Use Metasploit to pentest a lab machine.
 
 
-**[Proof Of Completion](image/evidence.jpg)**
+**[Proof Of Completion](image/p6.png)**
 
 
 ## 7. **Web Application Security Testing**
