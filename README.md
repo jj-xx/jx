@@ -92,8 +92,7 @@ My goal is to become a Security Analyst, as I thrive on analyzing complex proble
 
 
 # Other Platforms
-<a href="www.linkedin.com/in/jun-xian-14861528a" target="_blank">
-<img src="https://img.shields.io/badge/Linkedin-informational" alt="Linkedin" />
-</a>
+[LinkedIn](https://www.linkedin.com/in/jeeee)
+
 
 
